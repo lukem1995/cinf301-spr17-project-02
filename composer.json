@@ -1,0 +1,14 @@
+{
+  "require": {
+    "j7mbo/twitter-api-php": "dev-master"
+  },
+  
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+
+
+}
+
